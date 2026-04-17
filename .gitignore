@@ -18,3 +18,7 @@ outputs/
 
 # Env
 .venv/
+
+gfdsa/
+
+.DS_Store
