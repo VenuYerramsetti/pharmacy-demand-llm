@@ -112,6 +112,12 @@ Output:
 
 ---
 
+## 📄 Documentation
+
+👉 [View Full Project Report](docs/Pharmacy%20Demand%20Forecasting%20%26%20LLM-Based%20Decision%20Support%20System.pdf)
+
+---
+
 ## 👩‍💻 Author
 
 **Venu Madhuri Yerramsetti**  
