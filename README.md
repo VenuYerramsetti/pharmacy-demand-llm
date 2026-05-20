@@ -256,7 +256,7 @@ Potential future extensions include:
 
 # Documentation
 
-📄 [View Full Project Report](docs/Pharmacy%20Demand%20Forecasting%20%26%20LLM-Based%20Decision%20Support%20System.pdf)
+📄 [View Full Project Report](docs/yerramsetti_llm_decision_support_2026.pdf)
 
 ---
 
